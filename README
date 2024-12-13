@@ -5,7 +5,7 @@
 
 ## **Propósito del Código**
 
-Este proyecto automatiza la extracción de información judicial desde diversas páginas web. Su principal objetivo es interactuar con formularios, realizar búsquedas específicas y recolectar datos estructurados de manera eficiente y adaptable a diferentes plataformas.
+Esta prueba practica automatiza la extracción de información judicial desde diversas páginas web. Su principal objetivo es interactuar con formularios, realizar búsquedas específicas y recolectar datos estructurados de manera eficiente y adaptable a diferentes plataformas.
 
 El flujo del código está diseñado para ajustarse a páginas judiciales con estructuras similares, empleando criterios definidos por el usuario y palabras clave para la búsqueda y navegación.
 
