@@ -1,5 +1,8 @@
 # **Documentación del Código: Extracción de Información Judicial**
 
+
+"NOTA": activar el entorno virtual venv/Scripts/activate , ejecutar el codigo python main.py
+
 ## **Propósito del Código**
 
 Este proyecto automatiza la extracción de información judicial desde diversas páginas web. Su principal objetivo es interactuar con formularios, realizar búsquedas específicas y recolectar datos estructurados de manera eficiente y adaptable a diferentes plataformas.
