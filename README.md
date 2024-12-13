@@ -1,6 +1,7 @@
 # Documentación del Código: Extracción de Información Judicial
 
-> **Nota:**  
+> **Nota:**
+> - Crear un entorno virtual: `python -m venv venv` 
 > - Activar el entorno virtual: `venv/Scripts/activate`
 > - Instalar dependencias: `pip install -r requirements.txt`
 > - Ejecutar el código: `python main.py`
